@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.control.*?>
+<?import javafx.scene.layout.*?>
+
+<AnchorPane xmlns:fx="http://javafx.com/fxml" fx:controller="FinanceController">
+    <VBox spacing="10" alignment="CENTER">
+        <HBox spacing="10">
+            <TextField fx:id="amountField" promptText="Amount"/>
+            <ComboBox fx:id="typeBox"/>
+            <TextField fx:id="categoryField" promptText="Category"/>
+            <DatePicker fx:id="datePicker"/>
+        </HBox>
+        <Button text="Add Transaction" onAction="#addTransaction"/>
+        <TableView fx:id="table" prefHeight="200"/>
+    </VBox>
+</AnchorPane>

@@ -1,0 +1,14 @@
+{
+    "java.configuration.runtimes": [
+      {
+        "name": "JavaSE-21",
+        "path": "/Library/Java/JavaVirtualMachines/jdk-21.jdk/Contents/Home"
+      }
+    ],
+    "java.project.sourcePaths": [
+      "src"
+    ],
+    "java.project.outputPath": "out",
+    "javafx.library.path": "/Users/mayasrimal/Desktop/FinanceManager/javafx/lib"
+  }
+  
