@@ -4,7 +4,7 @@ A Java-based desktop application to help users track income, manage expenses, an
 
 ## 🛠️ Features
 
-- 📥 **Income Tracking** — Log multiple sources of income with dates and descriptions.  
+- 📥 **Income Tracking** — Log a single user's finances (income, savings, and expenses).  
 - 💸 **Expense Logging** — Categorize and record spending for better budgeting.  
 - 🎯 **Savings Goals** — Set and track your progress toward custom financial goals.  
 - 📊 **Visual Reports** — View dynamic charts and summaries (JFreeChart integration).  
